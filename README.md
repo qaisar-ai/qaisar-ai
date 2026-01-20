@@ -1,50 +1,61 @@
 # Hi there, I'm Qaisar 👋
 
-## 🤖 AI Engineer | Python Developer | Machine Learning Enthusiast
+## 🚀 Aspiring AI Engineer | Learning Python | Machine Learning Enthusiast
 
-I'm passionate about building intelligent solutions and creating impactful AI applications. Currently focused on mastering Machine Learning, Deep Learning, and MLOps to build production-ready AI systems.
+I'm passionate about AI and currently building my foundation in Python and Machine Learning. This is my journey from beginner to AI Engineer - documenting every step along the way.
 
 ---
 
 ### 🔭 What I'm Currently Working On
 
-- 🧠 **Deep Learning Projects** - Building neural networks with TensorFlow & PyTorch
-- 📊 **Data Science** - Exploratory analysis and feature engineering
-- 🐍 **Python Mastery** - Advanced concepts and best practices
-- 🚀 **MLOps** - Learning model deployment and CI/CD for ML
+- 🐍 **Python Fundamentals** - Building a strong programming foundation
+- 📊 **Data Analysis Basics** - Learning Pandas, NumPy
+- 🤖 **ML Concepts** - Understanding algorithms and mathematics behind ML
+- 💻 **Daily Coding** - Solving problems and building small projects
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack (Learning Journey)
 
 **Languages:**
-```python
-Python  ████████████████████  Expert
-SQL     ████████████░░░░░░░░  Intermediate
+```
+Python      ████░░░░░░░░░░░░░░░░  Beginner (Learning)
+SQL         ██░░░░░░░░░░░░░░░░░░  Basic (Started)
 ```
 
-**AI/ML Frameworks:**
-- 🔥 TensorFlow / Keras
-- ⚡ PyTorch
-- 📈 Scikit-learn
-- 📊 Pandas & NumPy
-- 📉 Matplotlib & Seaborn
+**Currently Learning:**
+- 🐍 Python basics & OOP
+- 📊 Data structures & algorithms
+- 🔢 NumPy & Pandas fundamentals
+- 📈 Basic data visualization
+- 🐙 Git & GitHub workflow
 
-**Tools & Technologies:**
-- 🐙 Git & GitHub
-- 💻 VS Code / Jupyter
-- 🐳 Docker (learning)
-- ☁️ Cloud Platforms (AWS/GCP basics)
+**Tools I Use:**
+- VS Code
+- Git & GitHub
+- Jupyter Notebooks (learning)
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Learning Roadmap 2026
 
-- Deep Learning architectures (CNNs, RNNs, Transformers)
-- Natural Language Processing (NLP)
-- Computer Vision applications
-- MLOps & Model Deployment
-- Advanced Python for Data Engineering
+**Q1 (Jan-Mar):**
+- [ ] Complete Python fundamentals
+- [ ] Learn Git & GitHub properly
+- [ ] Build 5 beginner projects
+- [ ] Start data structures & algorithms
+
+**Q2 (Apr-Jun):**
+- [ ] Master Pandas & NumPy
+- [ ] Learn basic ML algorithms
+- [ ] Start Scikit-learn
+- [ ] Build first ML project
+
+**Q3-Q4:**
+- [ ] Deep Learning fundamentals
+- [ ] Advanced ML projects
+- [ ] Portfolio building
+- [ ] Start job applications
 
 ---
 
@@ -52,26 +63,30 @@ SQL     ████████████░░░░░░░░  Intermedia
 
 ![Qaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaisar-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisar-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+---
+
+### 🎯 Current Focus (January 2026)
+
+**This Month's Goals:**
+- ✅ Set up GitHub profile
+- 🔄 Learn Python basics (variables, loops, functions)
+- 🔄 Practice daily coding (30 min/day)
+- 📝 Document my learning journey
+
+**Resources I'm Using:**
+- Python documentation
+- Online tutorials & courses
+- Practice platforms
+- GitHub for version control
 
 ---
 
-### 🎯 2026 Goals
+### 🏆 Small Wins
 
-- [x] Build strong Python foundation
-- [ ] Complete 10+ ML/DL projects
-- [ ] Contribute to open-source AI libraries
-- [ ] Master MLOps & deployment pipelines
-- [ ] Build an end-to-end production ML system
-- [ ] Earn ML/AI certifications
-
----
-
-### 🏆 Achievements
-
-- 💡 Building AI-powered applications
-- 📚 Continuous learner in ML/AI domain
-- 🌟 Open source enthusiast
+- 🎉 Started my AI learning journey
+- 💪 Committed to daily practice
+- 📚 Building foundation systematically
+- 🌟 Learning in public
 
 ---
 
@@ -83,16 +98,22 @@ SQL     ████████████░░░░░░░░  Intermedia
 
 ---
 
-### 💡 Quote I Live By
+### 💡 My Learning Philosophy
 
-*"The only way to do great work is to love what you do."* - Steve Jobs
-
----
-
-### 📊 Activity Graph
-
-![Qaisar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qaisar-ai&theme=tokyo-night&hide_border=true&bg_color=0D1117)
+*"I'm not an expert yet, but I'm learning every day. Progress over perfection."*
 
 ---
 
-⭐️ From [qaisar-ai](https://github.com/qaisar-ai) | Let's build the future with AI! 🚀
+### 📊 This Week's Progress
+
+**Week of Jan 20, 2026:**
+- 🐍 Python: Variables, data types, basic operators
+- 🐙 Git: Repository setup, basic commands
+- 💻 VS Code: Configured for Python development
+- 📚 Next: Functions and loops
+
+---
+
+⭐️ From [qaisar-ai](https://github.com/qaisar-ai) | Following my journey to becoming an AI Engineer 🚀
+
+*Last Updated: January 20, 2026*
