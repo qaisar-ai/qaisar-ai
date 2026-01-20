@@ -34,8 +34,7 @@ I'm passionate about building intelligent solutions and creating tools that make
 
 ### 📫 How to Reach Me
 - 📧 Email: qaisar.ai.engineer@gmail.com
-- 💼 LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
-- 🐦 Twitter: [@your_handle](https://twitter.com/your_handle) _(optional)_
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/qaisar-rafique-ml/)
 
 ### 📊 GitHub Stats
 
