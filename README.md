@@ -102,18 +102,8 @@ SQL         ██░░░░░░░░░░░░░░░░░░  Basic 
 
 *"I'm not an expert yet, but I'm learning every day. Progress over perfection."*
 
----
-
-### 📊 This Week's Progress
-
-**Week of Jan 20, 2026:**
-- 🐍 Python: Variables, data types, basic operators
-- 🐙 Git: Repository setup, basic commands
-- 💻 VS Code: Configured for Python development
-- 📚 Next: Functions and loops
 
 ---
 
 ⭐️ From [qaisar-ai](https://github.com/qaisar-ai) | Following my journey to becoming an AI Engineer 🚀
 
-*Last Updated: January 20, 2026*
