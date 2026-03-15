@@ -72,6 +72,6 @@ goal: Build intelligent systems that matter
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=qaisar-ai&color=00D9FF&style=flat-square)
 
 </div>
