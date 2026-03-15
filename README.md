@@ -1,109 +1,77 @@
-# Hi there, I'm Qaisar 👋
+<div align="center">
 
-## 🚀 Aspiring AI Engineer | Learning Python | Machine Learning Enthusiast
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer+in+Progress;Building+Intelligent+Systems;Python+%7C+ML+%7C+Deep+Learning)
 
-I'm passionate about AI and currently building my foundation in Python and Machine Learning. This is my journey from beginner to AI Engineer - documenting every step along the way.
-
----
-
-### 🔭 What I'm Currently Working On
-
-- 🐍 **Python Fundamentals** - Building a strong programming foundation
-- 📊 **Data Analysis Basics** - Learning Pandas, NumPy
-- 🤖 **ML Concepts** - Understanding algorithms and mathematics behind ML
-- 💻 **Daily Coding** - Solving problems and building small projects
+</div>
 
 ---
 
-### 💻 Tech Stack (Learning Journey)
-
-**Languages:**
-```
-Python      ████░░░░░░░░░░░░░░░░  Beginner (Learning)
-SQL         ██░░░░░░░░░░░░░░░░░░  Basic (Started)
+### 🧠 About Me
+```yaml
+Hi there, I'm Qaisar 👋
+role: Aspiring AI/ML Engineer
+focus: Python • Machine Learning • Deep Learning • AI Safety
+currently: Full-stack AI/ML Engineering Program
+goal: Build intelligent systems that matter
 ```
 
-**Currently Learning:**
-- 🐍 Python basics & OOP
-- 📊 Data structures & algorithms
-- 🔢 NumPy & Pandas fundamentals
-- 📈 Basic data visualization
-- 🐙 Git & GitHub workflow
+---
 
-**Tools I Use:**
-- VS Code
-- Git & GitHub
-- Jupyter Notebooks (learning)
+### ⚡ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 🌱 Learning Roadmap 2026
+### 🚀 Current Focus
 
-**Q1 (Jan-Mar):**
-- [ ] Complete Python fundamentals
-- [ ] Learn Git & GitHub properly
-- [ ] Build 5 beginner projects
-- [ ] Start data structures & algorithms
-
-**Q2 (Apr-Jun):**
-- [ ] Master Pandas & NumPy
-- [ ] Learn basic ML algorithms
-- [ ] Start Scikit-learn
-- [ ] Build first ML project
-
-**Q3-Q4:**
-- [ ] Deep Learning fundamentals
-- [ ] Advanced ML projects
-- [ ] Portfolio building
-- [ ] Start job applications
+- 🐍 Python & OOP — Deep fundamentals
+- 📊 Data Analysis — NumPy, Pandas, Visualization
+- 🤖 Machine Learning — Algorithms & Mathematics
+- 🧬 Deep Learning — Neural Networks, CNNs, Transformers
+- 🛡️ AI Safety & Alignment — Building responsibly
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Qaisar's GitHub stats](https://github-readme-stats.vercel.app/api?username=qaisar-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<div align="center">
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qaisar-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
 
-### 🎯 Current Focus (January 2026)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisar-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
 
-**This Month's Goals:**
-- ✅ Set up GitHub profile
-- 🔄 Learn Python basics (variables, loops, functions)
-- 🔄 Practice daily coding (30 min/day)
-- 📝 Document my learning journey
-
-**Resources I'm Using:**
-- Python documentation
-- Online tutorials & courses
-- Practice platforms
-- GitHub for version control
+</div>
 
 ---
 
-### 🏆 Small Wins
+### 💡 Philosophy
 
-- 🎉 Started my AI learning journey
-- 💪 Committed to daily practice
-- 📚 Building foundation systematically
-- 🌟 Learning in public
+> *"Build with purpose. Ship with confidence. Learn without limits."*
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qaisar-rafique-ml/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qaisar.ai.engineer@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qaisar-ai)
+
+</div>
 
 ---
 
-### 💡 My Learning Philosophy
+<div align="center">
 
-*"I'm not an expert yet, but I'm learning every day. Progress over perfection."*
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=flat-square)
 
-
----
-
-⭐️ From [qaisar-ai](https://github.com/qaisar-ai) | Following my journey to becoming an AI Engineer 🚀
-
+</div>
